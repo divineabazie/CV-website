@@ -1,0 +1,134 @@
+body {
+    text-align: center;
+    margin: 0 auto;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+h1 {
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+    line-height: 2;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight:normal;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+.top-container {
+    background-color: #E4F9F5;
+    padding-top: 100px;
+    position: relative;
+}
+
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.web-design {
+    width: 200px;
+    border-radius: 50%;
+    float: right;
+    margin-left: 30px;
+}
+
+.Writing-pirate-img {
+    width: 100px;
+    float: left;
+    margin-right: 30px;
+}
+
+.Devine-img {
+    width: 120px;
+    border-radius: 50%;
+    float: inherit;
+}
+
+.footer-link{
+    color: #11999E;
+}
+
+hr {
+    color: grey;
+    border-width: 5px;
+    border-style: none;
+    border-top-style: dotted;
+    width: 5%;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+
+.Devine-C {
+    color: #E4F6F6;
+}
+
+.footer-link {
+    padding: 40px;
+    text-decoration: none;
+    color: white;
+}
+
+.footer-link:hover {
+    background-color: #11999E;
+}
+
+.button{ 
+    background-color: #66BFBF; 
+    border: none; 
+    border-radius: 8px; 
+    color: white; 
+    flex-grow: 1; 
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px; 
+    height: 50px; 
+    line-height: 200px; 
+    margin-left: 8px;   
+    padding: 12px 12px 12px 12px; 
+    color:white; 
+    cursor: pointer; 
+    text-decoration: none;
+    } 
+    
+    .button:hover{ 
+    background-color: blue; 
+    cursor: pointer; 
+    } 
+    
+.pro {
+    text-decoration: underline;
+}
+
+.text {
+    width: 30%;
+    margin: auto;
+    line-height: 2;
+}
